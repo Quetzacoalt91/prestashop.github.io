@@ -19,6 +19,8 @@ PrestaShop 1.7.5.1 is now available.
 
 This version fixes bugs and regressions of the 1.7.5.0 version. It also integrates the latest security fixes from Symfony, a core dependency. We strongly encourage you to upgrade your shop as soon as possible.
 
+Releasing this version on the upgrade module was delayed. The reason was an incompatibility issue while upgrading from PrestaShop 1.7.5.0 fixed by the module v4.6.0.
+
 Of course, don't forget to backup before.
 
 
